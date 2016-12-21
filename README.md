@@ -1,5 +1,5 @@
-# laboratoare
-Laboratoare UBB
+# Laboratoare UBB
+Proiectele de laborator UBB, Informatica
 
 1. Creeaza un nou repository in github
 ![step 1](https://github.com/dragos-cojocari/laboratoare/blob/master/setup/pas_1.png)
