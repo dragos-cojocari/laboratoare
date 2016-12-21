@@ -1,6 +1,8 @@
 # Laboratoare UBB
 Proiectele de laborator UBB, Informatica
 
+Github Quick and to the point tutorial: http://rogerdudler.github.io/git-guide/
+
 1. Creeaza un nou repository in github
 ![step 1](https://github.com/dragos-cojocari/laboratoare/blob/master/setup/pas_1.png)
 
