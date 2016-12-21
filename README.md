@@ -17,5 +17,5 @@ Github Quick and to the point tutorial: http://rogerdudler.github.io/git-guide/
 6. Creeaza cate un folder pentru fiecare laborator in Atom si adauga ce fisiere ai
 ![step 4](https://github.com/dragos-cojocari/laboratoare/blob/master/setup/pas_4.png)
 
-7. Add all+commit+push
+7. Add All+Commit+Push
 ![step 5](https://github.com/dragos-cojocari/laboratoare/blob/master/setup/pas_5.png)
